@@ -20,3 +20,4 @@ English version downloads URL: [download](https://github.com/MarsAypking/PUBG-DM
 
 运行软件会自动跟新，无需重复下载，下载地址：[下载](https://github.com/MarsAypking/PUBG-DMA-URANUS/releases/tag/PUBG)
  
+update to v1.35
