@@ -6,7 +6,7 @@ Official Website:https://121258.xyz
 
 🔑 License Key:  
 
-Join the Telegram group to get a free test license: https://t.me/+6L3RvSlRIzk3OTU1  
+Join the Telegram group to get a free test full license: https://t.me/+6L3RvSlRIzk3OTU1  
 
 English version downloads URL: [download](https://github.com/MarsAypking/PUBG-DMA-URANUS/releases/tag/PUBG)
 
@@ -16,10 +16,10 @@ English version downloads URL: [download](https://github.com/MarsAypking/PUBG-DM
 
 🔑 软件许可：
 
-你可以加入TG群来获得免费的体验测试卡密：https://t.me/+6L3RvSlRIzk3OTU1  
+你也可以加入TG群来获得全功能漏打体验卡密：https://t.me/+6L3RvSlRIzk3OTU1  
 
 运行软件会自动跟新，无需重复下载，下载地址：[下载](https://github.com/MarsAypking/PUBG-DMA-URANUS/releases/tag/PUBG)
  
-update to v1.89
+update to v1.9
 The software has undergone extensive optimization and bug fixes; please download this full package.
 
