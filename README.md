@@ -2,7 +2,7 @@
 
 Welcome to the PUBG DMA URANUS. This launcher requires specific hardware and authorization to operate.  
 
-Official Website:https://121258.xyz  
+Official Website:https://www.121258.xyz  
 
 🔑 License Key:  
 
