@@ -12,7 +12,7 @@ English version downloads URL: [download](https://github.com/MarsAypking/PUBG-DM
 
 欢迎使用天王星漏打，透视自瞄雷达全功能软件，需要DMA板卡和软件使用授权才能正常运行。
 
-官网:https://121258.xyz  
+官网:https://www.121258.xyz  
 
 🔑 软件许可：
 
@@ -20,6 +20,6 @@ English version downloads URL: [download](https://github.com/MarsAypking/PUBG-DM
 
 运行软件会自动跟新，无需重复下载，下载地址：[下载](https://github.com/MarsAypking/PUBG-DMA-URANUS/releases/tag/PUBG)
  
-update to v2.6
+update to v2.92
 The software has undergone extensive optimization and bug fixes; please download this full package.
 
